@@ -3,7 +3,7 @@ using BitcoinBlockchainParser; // Highly efficient file parser
 
 class Program
 {
-    static void Main()
+    static void MainDFP()
     {
         string pathToBlocks = @"C:\Users\YourUser\AppData\Roaming\Bitcoin\blocks";
         
