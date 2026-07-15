@@ -5,7 +5,7 @@ using NBitcoin.RPC;
 
 class Program
 {
-    static void Main()
+    static void MainRPC()
     {
         // 1. Set up network and credentials
         Network network = Network.Main;
